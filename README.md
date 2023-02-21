@@ -21,5 +21,10 @@ to validate our design for the frill. After stimulation, we kept going with the 
 # Mechanics and Materials
  - We did the material selection for our critical aspect for the lizard.
  - The calculation for the force to push out the frill was considered carefully which gave the information
-   for choosing the parameter for rack and pinion mechanism.
- - 
+   for choosing the parameters for rack and pinion mechanism.
+ - All dimensioned drawings for each part will be demonstrated in the report.
+
+#Isometric view
+![Closed frill Isometric view](https://github.com/anhkietha/frill-neck-lizard/blob/2cc85db8eb875159e396e46cf4e4abba0d0cb84c/closed-frill-isometric.jpg)
+
+![Opened frill Isometric view](https://github.com/anhkietha/frill-neck-lizard/blob/2cc85db8eb875159e396e46cf4e4abba0d0cb84c/opened-frill-isometric.jpg)
