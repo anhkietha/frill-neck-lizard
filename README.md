@@ -25,6 +25,7 @@ to validate our design for the frill. After stimulation, we kept going with the 
  - All dimensioned drawings for each part will be demonstrated in the report.
 
 #Isometric view
-![Closed frill Isometric view](https://github.com/anhkietha/frill-neck-lizard/blob/2cc85db8eb875159e396e46cf4e4abba0d0cb84c/closed-frill-isometric.jpg)
+![Closed frill Isometric view](closed-frill-isometric.jpg)
 
-![Opened frill Isometric view](https://github.com/anhkietha/frill-neck-lizard/blob/2cc85db8eb875159e396e46cf4e4abba0d0cb84c/opened-frill-isometric.jpg)
+
+![Opened frill Isometric view](opened-frill-isometric.jpg)
